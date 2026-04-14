@@ -1,0 +1,3 @@
+﻿  Project3_minutes.cpp
+D:\Skylynn Rivera\Project3_minutes\Project3_minutes.cpp(19,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project3_minutes.vcxproj -> D:\Skylynn Rivera\Project3_minutes\Debug\Project3_minutes.exe
