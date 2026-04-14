@@ -1,0 +1,4 @@
+﻿  MP2_DA.cpp
+D:\Skylynn Rivera\MP2_DA\MP2_DA.cpp(37,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Skylynn Rivera\MP2_DA\MP2_DA.cpp(38,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MP2_DA.vcxproj -> D:\Skylynn Rivera\MP2_DA\Debug\MP2_DA.exe
