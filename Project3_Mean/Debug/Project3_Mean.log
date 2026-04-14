@@ -1,0 +1,4 @@
+﻿  Project3_Mean.cpp
+D:\Skylynn Rivera\Project3_Mean\Project3_Mean.cpp(34,2): error C2065: 'arithmeticM': undeclared identifier
+D:\Skylynn Rivera\Project3_Mean\Project3_Mean.cpp(35,1): error C2146: syntax error: missing ';' before identifier 'ean'
+D:\Skylynn Rivera\Project3_Mean\Project3_Mean.cpp(35,1): error C2065: 'ean': undeclared identifier
